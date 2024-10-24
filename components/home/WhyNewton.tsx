@@ -87,8 +87,8 @@ const WhyNewton = () => {
               <span className="text-primary">best place</span> for you
             </h2>
             <p className="text-foreground/60">
-              you're not just taking courses – you're stepping into a vibrant,
-              game-changing experience! Here’s what you get:
+              you&apos;re not just taking courses - you&apos;re stepping into a
+              vibrant, game-changing experience! Here&apos;s what you get:
             </p>
             <div className="grid grid-cols-1 md:grid-cols-2 items-center gap-5 mt-10">
               {courseExp.map((exp, index) => (
